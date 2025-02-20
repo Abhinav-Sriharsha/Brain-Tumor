@@ -3,11 +3,21 @@
 ## 📌 OVERVIEW
 
 Brain tumors are among the most critical medical conditions that require early and accurate detection for effective treatment. This project leverages Deep Learning and Computer Vision techniques to classify brain MRI scans into tumorous (Yes) and non-tumorous (No) categories. A Convolutional Neural Network (CNN) model is trained on MRI images to detect brain tumors with high accuracy.
----
+
+
 ## 🚀 FEATURES
 
-✔️ Deep Learning-based classification using a CNN model.✔️ Flask-powered Web Application for real-time predictions.✔️ Trained on MRI scan datasets (tumorous vs non-tumorous images).✔️ Real-time inference using OpenCV and TensorFlow.✔️ Well-structured and modular codebase for easy scalability.
----
+✔️ Deep Learning-based classification using a CNN model.
+
+✔️ Flask-powered Web Application for real-time predictions.
+
+✔️ Trained on MRI scan datasets (tumorous vs non-tumorous images).
+
+✔️ Real-time inference using OpenCV and TensorFlow.
+
+✔️ Well-structured and modular codebase for easy scalability.
+
+
 ## 🔬 ALGORITHM & MODEL DETAILS
 
 This project utilizes a Convolutional Neural Network (CNN) with the following architecture:
@@ -39,7 +49,17 @@ Model is trained for 10 epochs with a batch size of 16.
 
 **This project is built using:**
 
-🟠 Python 3.x🟡 TensorFlow/Keras – Deep Learning Framework🔵 OpenCV – Image Processing🟢 NumPy – Numerical Computation🔴 Flask – Web Framework🟣 PIL (Pillow) – Image Processing🟠 Werkzeug – Secure file handling
+🟠 Python 3.x
+
+🟡 TensorFlow/Keras – Deep Learning Framework
+
+🔵 OpenCV – Image Processing
+
+🟢 NumPy – Numerical Computation
+
+🔴 Flask – Web Framework
+
+🟣 PIL (Pillow) – Image Processing
 
 **Install all dependencies using:**
 
@@ -77,7 +97,13 @@ The model will predict whether the image contains a tumor or not.
 
 ## 📌 FUTURE ENHANCEMENTS
 
-🚀 Improve Model Accuracy: Train with a larger dataset and hyperparameter tuning.☁️ Deploy to Cloud: Host the Flask application on AWS/GCP for real-world usage.🔍 Integrate Explainability: Use Grad-CAM for model interpretability.🎨 Enhance UI: Make the frontend more interactive and visually appealing.
+🚀 Improve Model Accuracy: Train with a larger dataset and hyperparameter tuning.
+
+☁️ Deploy to Cloud: Host the Flask application on AWS/GCP for real-world usage.
+
+🔍 Integrate Explainability: Use Grad-CAM for model interpretability.
+
+🎨 Enhance UI: Make the frontend more interactive and visually appealing.
 
 
 ✨ AUTHOR
