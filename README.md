@@ -69,7 +69,7 @@ pip install tensorflow keras numpy flask opencv-python pillow
 
 🔹 **1️⃣ Clone the Repository**
 
-git clone https://github.com/yourusername/Brain-Tumor-Detection.git
+git clone https://github.com/Abhinav-Sriharsha/Brain-Tumor.git
 cd Brain-Tumor-Detection
 
 🔹 **2️⃣ Train the Model (Optional)**
